@@ -1,0 +1,19 @@
+{
+  "journey": {
+    "departureStation": "COL",
+    "destinationStation": null,
+    "stationAbbr": {
+      "International": "Intl."
+    },
+    {
+      "London Liverpool Street": "London Liv St"
+    },
+    "outOfHoursName": "Colchester"
+  },
+  "refreshTime": 180,
+  "transportApi": {
+    "appId": "68535510",
+    "apiKey": "bda6f6637f2ba6a4b531d5ca6be9cea9",
+    "operatingHours": "0-23"
+  }
+}
